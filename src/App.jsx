@@ -44,9 +44,13 @@ function App() {
 
         <h2 className="heading">3. Ads and Monetization</h2>
         <p>
-          We may display non-personalized ads to support app development. These
-          ads do not use cookies or track your activity across apps.
+          We dont display any ads in this app yet, however this may change in
+          the future.
         </p>
+        {/* <p>
+          We dont display non-personalized ads to support app development. These
+          ads do not use cookies or track your activity across apps.
+        </p>*/}
 
         <h2 className="heading">4. Children’s Privacy</h2>
         <p>
